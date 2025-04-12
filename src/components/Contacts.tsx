@@ -419,28 +419,28 @@
 //         {submitted && <SuccessMessage>✅ Message sent!</SuccessMessage>}
 //       </ContactForm>
 
-//       {/* <SocialLinks
-//         initial={{ opacity: 0 }}
-//         whileInView={{ opacity: 1 }}
-//         transition={{ duration: 0.5, delay: 0.3 }}
-//         viewport={{ once: false }}
-//       >
-//         <SocialLink href="https://github.com" target="_blank">
-//           <Github />
-//         </SocialLink>
-//         <SocialLink href="https://linkedin.com" target="_blank">
-//           <Linkedin />
-//         </SocialLink>
-//         <SocialLink href="mailto:you@example.com">
-//           <Mail />
-//         </SocialLink>
-//         <SocialLink href="tel:+123456789">
-//           <Phone />
-//         </SocialLink>
-//         <SocialLink href="https://yourwebsite.com">
-//           <Globe />
-//         </SocialLink>
-//       </SocialLinks> */}
+//  <SocialLinks
+//   initial={{ opacity: 0 }}
+//   whileInView={{ opacity: 1 }}
+//   transition={{ duration: 0.5, delay: 0.3 }}
+//   viewport={{ once: false }}
+// >
+//   <SocialLink href="https://github.com" target="_blank">
+//     <Github />
+//   </SocialLink>
+//   <SocialLink href="https://linkedin.com" target="_blank">
+//     <Linkedin />
+//   </SocialLink>
+//   <SocialLink href="mailto:you@example.com">
+//     <Mail />
+//   </SocialLink>
+//   <SocialLink href="tel:+123456789">
+//     <Phone />
+//   </SocialLink>
+//   <SocialLink href="https://yourwebsite.com">
+//     <Globe />
+//   </SocialLink>
+// </SocialLinks>
 
 //       {/* <InfoSection>
 //         <InfoBox
